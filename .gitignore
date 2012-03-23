@@ -10,6 +10,7 @@
 
 # Specific files #
 ##################
+pghpython/local_settings.py
 
 # OS generated files #
 ######################
